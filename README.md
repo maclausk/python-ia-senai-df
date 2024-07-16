@@ -27,17 +27,7 @@ O curso de Python e Inteligência Artificial do SENAI-DF tem como objetivo capac
 - **Colaboração**: Permite compartilhar conhecimento e colaborar com outros alunos.
 - **Portfólio**: Ajuda na construção de um portfólio de projetos e exercícios realizados durante o curso.
 
-## Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie um branch para sua contribuição (`git checkout -b minha-contribuicao`).
-3. Faça suas alterações e commit (`git commit -m 'Minha contribuição'`).
-4. Envie para o branch original (`git push origin minha-contribuicao`).
-5. Crie um pull request.
-
 ## Contato
-
-Para mais informações sobre o curso, entre em contato:
 
 Marcelo Avelino  
 Email: [maclausk@yahoo.com.br](mailto:maclausk@yahoo.com.br)
