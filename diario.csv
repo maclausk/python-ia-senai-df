@@ -1,0 +1,21 @@
+id,texto,datahora,fk_aluno_id
+1,Introdução ao Python,2024-07-31 09:00:00,1
+2,Variáveis e Tipos de Dados,2024-08-01 10:00:00,2
+3,Estruturas de Controle,2024-08-02 11:00:00,3
+4,Funções e Módulos,2024-08-03 12:00:00,4
+5,Introdução ao NumPy,2024-08-04 13:00:00,5
+6,Manipulação de Dados com Pandas,2024-08-05 14:00:00,6
+7,Visualização de Dados com Matplotlib,2024-08-06 15:00:00,7
+8,Introdução ao Machine Learning,2024-08-07 16:00:00,8
+9,Redes Neurais com TensorFlow,2024-08-08 17:00:00,9
+10,Projeto Final de IA,2024-08-09 18:00:00,10
+11,Estudo de Algoritmos,2024-08-10 09:00:00,11
+12,Revisão de Matemática,2024-08-11 10:00:00,12
+13,Projeto de Física,2024-08-12 11:00:00,13
+14,Leitura de Literatura,2024-08-13 12:00:00,14
+15,Experimento de Química,2024-08-14 13:00:00,15
+16,Análise de Dados,2024-08-15 14:00:00,16
+17,Prática de Programação,2024-08-16 15:00:00,17
+18,Discussão em Grupo,2024-08-17 16:00:00,18
+19,Pesquisa de História,2024-08-18 17:00:00,19
+20,Exercício de Biologia,2024-08-19 18:00:00,20
