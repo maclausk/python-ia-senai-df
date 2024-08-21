@@ -1,51 +1,51 @@
-Nome do Paciente,Idade,Fuma,Tipo de Fumo,Bebe,Tipo de Bebida,Time de Futebol
-Ana,45,Sim,Cigarro Eletrônico,Sim,Não Bebe,Vasco
-Bruno,62,Sim,Maconha,Sim,Destilados,Palmeiras
-Carlos,60,Não,Não Fuma,Não,Não Bebe,Palmeiras
-Daniela,55,Não,Não Fuma,Não,Não Bebe,Corinthians
-Eduardo,19,Não,Não Fuma,Não,Não Bebe,Internacional
-Fernanda,25,Sim,Cigarro Eletrônico,Sim,Cerveja,Flamengo
-Gustavo,44,Não,Não Fuma,Sim,Destilados,Corinthians
-Helena,25,Sim,Não Fuma,Não,Não Bebe,Atlético Mineiro
-Igor,63,Sim,Narguilê,Não,Não Bebe,Santos
-Julia,38,Não,Não Fuma,Sim,Destilados,Atlético Mineiro
-Lucas,19,Não,Não Fuma,Não,Não Bebe,Cruzeiro
-Mariana,39,Sim,Cigarro Eletrônico,Sim,Não Bebe,Internacional
-Nicolas,34,Sim,Cigarro Comum,Sim,Destilados,Internacional
-Olivia,21,Não,Não Fuma,Sim,Cerveja,Grêmio
-Pedro,35,Não,Não Fuma,Não,Não Bebe,Flamengo
-Quésia,41,Não,Não Fuma,Sim,Cerveja,Atlético Mineiro
-Ricardo,60,Sim,Não Fuma,Sim,Whisky,Atlético Mineiro
-Sofia,22,Sim,Não Fuma,Sim,Vodka,Corinthians
-Tiago,46,Não,Não Fuma,Sim,Destilados,Atlético Mineiro
-Vitória,32,Sim,Narguilê,Não,Não Bebe,São Paulo
-André,37,Não,Não Fuma,Não,Não Bebe,Santos
-Bianca,30,Não,Não Fuma,Não,Não Bebe,Vasco
-Cláudio,18,Não,Não Fuma,Não,Não Bebe,Atlético Mineiro
-Diana,64,Sim,Não Fuma,Não,Não Bebe,Atlético Mineiro
-Estela,20,Não,Não Fuma,Sim,Vodka,Vasco
-Felipe,28,Não,Não Fuma,Não,Não Bebe,Cruzeiro
-Gabriel,28,Sim,Cigarro Eletrônico,Sim,Não Bebe,Palmeiras
-Heloisa,56,Não,Não Fuma,Não,Não Bebe,Santos
-Isabela,39,Não,Não Fuma,Não,Não Bebe,Atlético Mineiro
-João,31,Não,Não Fuma,Sim,Destilados,Cruzeiro
-Larissa,55,Não,Não Fuma,Sim,Vodka,Grêmio
-Matheus,21,Não,Não Fuma,Sim,Não Bebe,Flamengo
-Natália,42,Não,Não Fuma,Sim,Cerveja,Vasco
-Otávio,50,Sim,Maconha,Sim,Whisky,Vasco
-Paula,59,Sim,Cigarro Comum,Sim,Whisky,Cruzeiro
-Raul,30,Sim,Cigarro Eletrônico,Não,Não Bebe,Cruzeiro
-Sara,33,Não,Não Fuma,Não,Não Bebe,Internacional
-Tomás,38,Não,Não Fuma,Não,Não Bebe,Flamengo
-Valentina,35,Sim,Não Fuma,Não,Não Bebe,Cruzeiro
-Yasmin,24,Sim,Cigarro Comum,Sim,Whisky,Cruzeiro
-Alex,33,Sim,Narguilê,Sim,Destilados,Corinthians
-Betina,58,Não,Não Fuma,Sim,Destilados,Corinthians
-Caio,40,Não,Não Fuma,Não,Não Bebe,Internacional
-Débora,45,Sim,Não Fuma,Não,Não Bebe,São Paulo
-Elisa,40,Não,Não Fuma,Sim,Não Bebe,Vasco
-Fabrício,61,Sim,Não Fuma,Não,Não Bebe,Vasco
-Gisele,31,Não,Não Fuma,Não,Não Bebe,Palmeiras
-Hugo,18,Não,Não Fuma,Não,Não Bebe,Corinthians
-Ingrid,20,Não,Não Fuma,Não,Não Bebe,Cruzeiro
-Jorge,37,Não,Não Fuma,Sim,Não Bebe,Cruzeiro
+Nome do Paciente,Idade,Fuma,Bebe
+Michael Jackson,45,Sim,Sim
+Freddie Mercury,62,Sim,Sim
+Elvis Presley,60,Não,Não
+Madonna Ciccone,55,Não,Não
+Justin Bieber,19,Não,Não
+Lady Gaga,25,Sim,Sim
+Kurt Cobain,44,Não,Sim
+Ariana Grande,25,Sim,Não
+Mick Jagger,63,Sim,Não
+Whitney Houston,38,Não,Sim
+Bruno Mars,19,Não,Não
+Beyoncé Knowles,39,Sim,Sim
+Ed Sheeran,34,Sim,Sim
+Taylor Swift,21,Não,Sim
+Paul McCartney,35,Não,Não
+Celine Dion,41,Não,Sim
+Bob Marley,60,Sim,Sim
+Shakira Mebarak,22,Sim,Sim
+Jay-Z Carter,46,Não,Sim
+Rihanna Fenty,32,Sim,Não
+Frank Sinatra,37,Não,Não
+Adele Adkins,30,Não,Não
+John Lennon,18,Não,Não
+Diana Ross,64,Sim,Não
+Selena Gomez,20,Não,Sim
+David Bowie,28,Não,Não
+Kanye West,28,Sim,Sim
+Mariah Carey,56,Não,Não
+Billie Eilish,39,Não,Não
+Elton John,31,Não,Sim
+Cherilyn Sarkisian,55,Não,Sim
+Drake Graham,21,Não,Sim
+Miley Cyrus,42,Não,Sim
+Ozzy Osbourne,50,Sim,Sim
+Britney Spears,59,Sim,Sim
+Pharrell Williams,30,Sim,Não
+Stevie Wonder,33,Não,Não
+Tom Petty,38,Não,Não
+Janet Jackson,35,Sim,Não
+Christina Aguilera,24,Sim,Sim
+Eminem Mathers,33,Sim,Sim
+Jennifer Lopez,58,Não,Sim
+Prince Nelson,40,Não,Não
+Amy Winehouse,45,Sim,Não
+Tina Turner,40,Não,Sim
+Gene Simmons,61,Sim,Não
+Cyndi Lauper,31,Não,Não
+Harry Styles,18,Não,Não
+Dua Lipa,20,Não,Não
+James Hetfield,37,Não,Sim
