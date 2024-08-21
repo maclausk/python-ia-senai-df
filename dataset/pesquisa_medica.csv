@@ -1,0 +1,51 @@
+Nome do Paciente,Idade,Fuma,Tipo de Fumo,Bebe,Tipo de Bebida,Time de Futebol
+Ana,45,Sim,Cigarro Eletrônico,Sim,Não Bebe,Vasco
+Bruno,62,Sim,Maconha,Sim,Destilados,Palmeiras
+Carlos,60,Não,Não Fuma,Não,Não Bebe,Palmeiras
+Daniela,55,Não,Não Fuma,Não,Não Bebe,Corinthians
+Eduardo,19,Não,Não Fuma,Não,Não Bebe,Internacional
+Fernanda,25,Sim,Cigarro Eletrônico,Sim,Cerveja,Flamengo
+Gustavo,44,Não,Não Fuma,Sim,Destilados,Corinthians
+Helena,25,Sim,Não Fuma,Não,Não Bebe,Atlético Mineiro
+Igor,63,Sim,Narguilê,Não,Não Bebe,Santos
+Julia,38,Não,Não Fuma,Sim,Destilados,Atlético Mineiro
+Lucas,19,Não,Não Fuma,Não,Não Bebe,Cruzeiro
+Mariana,39,Sim,Cigarro Eletrônico,Sim,Não Bebe,Internacional
+Nicolas,34,Sim,Cigarro Comum,Sim,Destilados,Internacional
+Olivia,21,Não,Não Fuma,Sim,Cerveja,Grêmio
+Pedro,35,Não,Não Fuma,Não,Não Bebe,Flamengo
+Quésia,41,Não,Não Fuma,Sim,Cerveja,Atlético Mineiro
+Ricardo,60,Sim,Não Fuma,Sim,Whisky,Atlético Mineiro
+Sofia,22,Sim,Não Fuma,Sim,Vodka,Corinthians
+Tiago,46,Não,Não Fuma,Sim,Destilados,Atlético Mineiro
+Vitória,32,Sim,Narguilê,Não,Não Bebe,São Paulo
+André,37,Não,Não Fuma,Não,Não Bebe,Santos
+Bianca,30,Não,Não Fuma,Não,Não Bebe,Vasco
+Cláudio,18,Não,Não Fuma,Não,Não Bebe,Atlético Mineiro
+Diana,64,Sim,Não Fuma,Não,Não Bebe,Atlético Mineiro
+Estela,20,Não,Não Fuma,Sim,Vodka,Vasco
+Felipe,28,Não,Não Fuma,Não,Não Bebe,Cruzeiro
+Gabriel,28,Sim,Cigarro Eletrônico,Sim,Não Bebe,Palmeiras
+Heloisa,56,Não,Não Fuma,Não,Não Bebe,Santos
+Isabela,39,Não,Não Fuma,Não,Não Bebe,Atlético Mineiro
+João,31,Não,Não Fuma,Sim,Destilados,Cruzeiro
+Larissa,55,Não,Não Fuma,Sim,Vodka,Grêmio
+Matheus,21,Não,Não Fuma,Sim,Não Bebe,Flamengo
+Natália,42,Não,Não Fuma,Sim,Cerveja,Vasco
+Otávio,50,Sim,Maconha,Sim,Whisky,Vasco
+Paula,59,Sim,Cigarro Comum,Sim,Whisky,Cruzeiro
+Raul,30,Sim,Cigarro Eletrônico,Não,Não Bebe,Cruzeiro
+Sara,33,Não,Não Fuma,Não,Não Bebe,Internacional
+Tomás,38,Não,Não Fuma,Não,Não Bebe,Flamengo
+Valentina,35,Sim,Não Fuma,Não,Não Bebe,Cruzeiro
+Yasmin,24,Sim,Cigarro Comum,Sim,Whisky,Cruzeiro
+Alex,33,Sim,Narguilê,Sim,Destilados,Corinthians
+Betina,58,Não,Não Fuma,Sim,Destilados,Corinthians
+Caio,40,Não,Não Fuma,Não,Não Bebe,Internacional
+Débora,45,Sim,Não Fuma,Não,Não Bebe,São Paulo
+Elisa,40,Não,Não Fuma,Sim,Não Bebe,Vasco
+Fabrício,61,Sim,Não Fuma,Não,Não Bebe,Vasco
+Gisele,31,Não,Não Fuma,Não,Não Bebe,Palmeiras
+Hugo,18,Não,Não Fuma,Não,Não Bebe,Corinthians
+Ingrid,20,Não,Não Fuma,Não,Não Bebe,Cruzeiro
+Jorge,37,Não,Não Fuma,Sim,Não Bebe,Cruzeiro
