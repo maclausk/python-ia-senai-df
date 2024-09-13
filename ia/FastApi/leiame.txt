@@ -1,0 +1,8 @@
+# Instalar
+pip install fastapi uvicorn
+
+# Executar
+uvicorn inicio:app --reload
+
+# Documentação
+http://127.0.0.1:8000/docs

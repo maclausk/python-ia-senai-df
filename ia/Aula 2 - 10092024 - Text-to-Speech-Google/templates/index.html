@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto para Fala</title>
+</head>
+<body>
+    <h1>Texto para Fala</h1>
+
+    <form method="POST">
+        <textarea name="texto" id="texto" rows="4" cols="50" placeholder="Digite o texto aqui"></textarea>
+        <br>
+        <button type="submit">Gerar Áudio</button>
+    </form>
+
+    <!-- Se houver um arquivo de áudio, mostrar o player -->
+    {% if audio_path %}
+        <h2>Seu áudio:</h2>
+        <audio controls>
+            <source src="{{ audio_path }}" type="audio/mpeg">
+            Seu navegador não suporta o elemento de áudio.
+        </audio>
+    {% endif %}
+</body>
+</html>
