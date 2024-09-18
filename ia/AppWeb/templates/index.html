@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Definimos o conjunto de caracteres como UTF-8 para suportar caracteres especiais -->
+    <meta charset="UTF-8">
+    
+    <!-- O meta viewport é essencial para tornar o site responsivo em dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Definimos o título da página que aparecerá na aba do navegador -->
+    <title>Senia</title>
+    
+    <!-- Estilos CSS diretamente no cabeçalho (poderiam ser movidos para um arquivo CSS separado) -->
+    <style>
+        /* Estilo básico do corpo da página */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        
+        /* Estilo do cabeçalho */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: relative;  /* Necessário para posicionar o botão de login de forma absoluta */
+        }
+
+        /* Botão de login no canto superior direito */
+        .login-button {
+            position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);  /* Centraliza o botão verticalmente */
+            background-color: #ffffff;
+            border: none;
+            color: #4CAF50;
+            padding: 0.5em 1em;
+            font-size: 0.9em;
+            cursor: pointer;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo do botão de login ao passar o mouse por cima */
+        .login-button:hover {
+            background-color: #f4f4f4;
+        }
+
+        /* Estilo do rodapé, fixado na parte inferior da página */
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        /* Container para centralizar o conteúdo principal */
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+            padding: 0 2em;
+        }
+
+        /* Estilo do formulário */
+        form {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 2em;
+            text-align: center;
+            width: 100%;
+            max-width: 500px;  /* Limita a largura do formulário */
+        }
+
+        /* Título dentro do formulário */
+        h1 {
+            font-size: 1.5em;
+            margin-bottom: 1em;
+        }
+
+        /* Estilo do botão de submissão do formulário */
+        input[type="submit"] {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 1em 2em;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        /* Estilo do botão ao passar o mouse por cima */
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        /* Conteúdo geral da página */
+        .content {
+            padding: 2em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Cabeçalho da página -->
+    <header>
+        <h1>Interaja com uma IA</h1>
+        
+        <!-- Botão de login que redireciona para a página de login -->
+        <a href="/login" class="login-button">Login</a>
+    </header>
+
+    <!-- Texto descritivo abaixo do cabeçalho -->
+    <div class="content">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Nulla facilisi. Mauris vel orci eget ligula efficitur facilisis. Sed ac augue arcu. Nam quis feugiat sem. Nulla facilisi. Suspendisse potenti.</p>
+    </div>
+
+    <!-- Container central com o formulário para redirecionar ao login -->
+    <div class="container">
+        <form action="/login" method="POST">
+            <h2>Que tal usar a IA para interagir com seus alunos?</h2>
+            <!-- Botão de submissão do formulário -->
+            <input type="submit" value="Comece agora! É grátis!">
+        </form>
+    </div>
+
+    <!-- Rodapé da página -->
+    <footer>
+        <p>&copy; 2024 Senia. Todos os direitos reservados.</p>
+        <p>Rua Exemplo, 123 - Cidade, País</p>
+    </footer>
+
+</body>
+</html>

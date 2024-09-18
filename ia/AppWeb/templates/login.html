@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Definimos o conjunto de caracteres como UTF-8 para suportar caracteres especiais -->
+    <meta charset="utf-8">
+    
+    <!-- Meta tag para garantir que o site seja responsivo, adaptando-se a diferentes tamanhos de tela -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Título da página -->
+    <title>Senia</title>
+    
+    <!-- Incluímos o arquivo CSS do Bootstrap para estilização -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.css') }}">
+  </head>
+  <body>
+    <!-- Container principal -->
+    <div class="container">
+        <!-- Título da página de login -->
+        <h1>Faça seu login</h1>
+
+        <!-- Formulário de login -->
+        <form method="POST" action="/autenticar">
+            <!-- Campo para o nome de usuário -->
+            <p>
+                <label>Nome de usuário:</label> 
+                <input class="form-control" type="text" name="usuario" required> 
+                <!-- 'required' garante que o campo seja preenchido -->
+            </p>
+            
+            <!-- Campo para a senha -->
+            <p>
+                <label>Senha:</label> 
+                <input class="form-control" type="password" name="senha" required> 
+                <!-- O tipo 'password' oculta a senha enquanto o usuário digita -->
+            </p>
+            
+            <!-- Botão para submeter o formulário -->
+            <p>
+                <button class="btn btn-primary" type="submit">Entrar</button> 
+                <!-- Botão estilizado com a classe 'btn btn-primary' do Bootstrap -->
+            </p>
+        </form>
+
+        <!-- Exibe a mensagem de erro, se houver, vinda do backend Flask -->
+        {{msg}}
+    </div>
+</body>
+</html>
